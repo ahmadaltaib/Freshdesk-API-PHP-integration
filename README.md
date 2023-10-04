@@ -11,7 +11,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-ALL-purble" />
-  <img src="https://img.shields.io/badge/Version-1.0.0-" />
+  <img src="https://img.shields.io/badge/Version-1.0.0-red" />
   <img src="https://img.shields.io/badge/Coverage-100%25-green" />
   <img src="https://img.shields.io/badge/Dependencies-N/A-orange" />
   <img src="https://img.shields.io/badge/Rating-★★★★★-brightgreen" />
